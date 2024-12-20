@@ -1,6 +1,7 @@
 # tugas_akhir_pm
 
-A new Flutter project.
+Yosua Bangun 029
+Clara Navra Simamora 017
 
 ## Getting Started
 
